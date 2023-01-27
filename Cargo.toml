@@ -1,0 +1,7 @@
+[package]
+name = "rust-crash-course"
+version = "0.1.0"
+edition = "2021"
+authors = ["Joao Ribeiro <ribeirolalala@gmail.com>"]
+
+[dependencies]
